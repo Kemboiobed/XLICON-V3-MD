@@ -1,5 +1,5 @@
 {
-  "name": "Xlicon-MD",
+  "name": "Batman-MD",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
@@ -10,7 +10,7 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "254740873466"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
@@ -40,7 +40,7 @@
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "BATMAN"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
