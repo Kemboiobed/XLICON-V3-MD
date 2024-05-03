@@ -13,8 +13,8 @@
 <p align="center">
 <a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About BATMAN-V3**
-BATMAN-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://github.com/kemboiobed). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About BATMAN-md**
+BATMAN-md is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://github.com/kemboiobed). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BATMAN}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 
