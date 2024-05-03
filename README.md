@@ -49,35 +49,7 @@ BATMAN-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://
 
 ## ⭐ `Star This Repo`
 If you find BATMAN-MD helpful, consider giving it a star ⭐ to show your appreciation.
-
-Thanks to all contributors! 🚀
-
-## 💲 ```Donate Me```
-
-- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through Buy Me A Coffee...
-</p>
-
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
-
-<p align="left">
-Click On The Link To Donate ME...
-</p>
-
-## 🚀 `Bot Features`
-| Feature                          | Description                                             | Available    | Version    |
-| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
-| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 3.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅           | 3.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
-| Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
-| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
+  
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
