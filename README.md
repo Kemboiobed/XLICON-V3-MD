@@ -10,34 +10,6 @@
 ## 🌟 `Bot Intro and Features`
 🅱🅰🆃🅼🅰🅽 🅼🅳https://i.ibb.co/sgdGM1P/Batman MD.jpg)]
 
-<p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
-
-### ℹ️ **About BATMAN-md**
-BATMAN-md is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://github.com/kemboiobed). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
-
-<p align="center"><img src="https://profile-counter.glitch.me/{BATMAN}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
-
-### 📊 **Bot Statistics**
-<p align="center">
-<a href="https://github.com/kemboiobed/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/BATMAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/BATMAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kemboiobed/BATMAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kemboiobed/Batman-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/kemboiobed/BATMAN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kemboiobed/Batman-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kemboiobed/BATMAN -MD"><img title="Open Source" src="https://img.shields.io/badge/Author-kemboi%20Ser.-red?v=103"></a>
-<a href="https://github.com/salmanytofficial/BATMAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kemboiobed/batman-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkemboiobed%2Fbatman-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kemboiobed/BATMAN -MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
-  
-####
-
-*BATMAN99* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
--------
-
 ***
 
 ## ⭐ `Star This Repo`
